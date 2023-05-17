@@ -1,0 +1,62 @@
+aiohttp==3.8.4
+aiosignal==1.3.1
+anyio==3.6.2
+async-timeout==4.0.2
+asyncio==3.4.3
+asynctest==0.13.0
+attrs==22.2.0
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
+charset-normalizer==3.0.1
+click==8.0.3
+cycler==0.11.0
+emoji==2.2.0
+filelock==3.9.0
+fonttools==4.38.0
+frozenlist==1.3.3
+h11==0.14.0
+httpcore==0.16.3
+httpx==0.23.3
+huggingface-hub==0.12.1
+idna==3.4
+importlib-metadata==6.0.0
+joblib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_955tow_ysb/croot/joblib_1666298851241/work
+jsonlines @ file:///tmp/build/80754af9/jsonlines_1609785323125/work
+kiwisolver==1.4.4
+lxml==4.9.2
+matplotlib==3.5.3
+mkl-fft==1.3.1
+mkl-random @ file:///opt/concourse/worker/volumes/live/133f1d0b-8fd8-4fa0-679e-7214401cbd75/volume/mkl_random_1626186083386/work
+mkl-service==2.4.0
+multidict==6.0.4
+nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+numpy==1.21.6
+openai==0.27.0
+OpenAIAuth==0.3.2
+packaging==23.0
+pandas==1.2.3
+Pillow==9.4.0
+powerline-status==2.7
+protobuf==4.22.3
+pyparsing==3.0.9
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ddzpsmm2_f/croot/pytz_1671697430473/work
+PyYAML==6.0
+regex==2022.10.31
+requests==2.28.2
+revChatGPT==2.3.14
+rfc3986==1.5.0
+rouge==1.0.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+stanza==1.5.0
+tenacity==8.2.1
+tokenizers==0.13.2
+torch==1.10.1
+torchaudio==0.10.1
+torchvision==0.11.2
+tqdm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2adqcbsqqd/croots/recipe/tqdm_1664392689227/work
+transformers==4.26.1
+typing_extensions==4.5.0
+urllib3==1.26.14
+yarl==1.8.2
+zipp==3.15.0

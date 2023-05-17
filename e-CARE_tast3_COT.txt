@@ -1,0 +1,103 @@
+Event A: The leader of the orphanage decided to find a kind person for her to adopt her.
+Event B: Her mother abandoned her.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No
+
+Event A: The irish druid saw ravens.
+Event B: His limbic system was activated.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No
+
+Event A: This phenomenon is called speciation.
+Event B: A species gradually adapted to its environment.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. Based on the expertise in the field of biology, speciation is often the result of environmental adaptation.
+2. Therefore, there is causal relationship between Event A and Event B.
+Answer: Yes
+
+Event A: The experimenter intends to adjust the ionic bond.
+Event B: Cooperation should be enhanced.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No
+
+Event A: The plane should not fly in troposphere at last.
+Event B: The plane needs to fly smoothly.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There may be turbulence in the troposphere that could cause the plane to fly unsteadily.
+2. Therefore, there is causal relationship between Event A and Event B.
+Answer: Yes
+
+Event A: When I saw them again today, I noticed that exfoliation occured.
+Event B: Their group was in charge of the gelatin Infiltration.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No
+
+Event A: He keeps many gnus.
+Event B: He travels with them together for food.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No
+
+Event A: She finds some hepaticas in the fields.
+Event B: Luna wants to take pictures of some flowers in early spring.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. Hepaticas are among the first flowers to bloom in the spring.
+2. Therefore, there is causal relationship between Event A and Event B.
+Answer: Yes
+
+Event A: The curtain factory ran out of materials.
+Event B: These products didn't function as they used to do.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No
+
+Event A: He was diagnosed with a kind of syndrome.
+Event B: Tom got infected by something unknown.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. Syndromes associate with infection.
+2. Therefore, there is causal relationship between Event A and Event B.
+Answer: Yes
+
+Event A: He sang into the microphone.
+Event B: Sound waves are converted to electrical resistance.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No
+
+Event A: The children will be shipped off to a boarding school.
+Event B: Various elimination processes was adopted to achieve that.
+Question: is there a causal relationship between Event A and Event B ?
+Reasoning Process:
+1. There is no correlation between Event A and Event B.
+2. If there is no correlation, then there must be no causal relationship.
+3. Therefore, there is no causal relationship between Event A and Event B.
+Answer: No

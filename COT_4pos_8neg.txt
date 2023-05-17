@@ -1,0 +1,123 @@
+INPUT: An earthquake with a magnitude of at least 5 . 9 hit southern Iran on Sunday , killing at least 10 people and injuring many others .
+Question: In the INPUT sentence, is there a causal relationship between "injuring" and "earthquake"?
+Reasoning Process:
+1. From the INPUT, An earthquake hit southern Iran
+2. From the INPUT, the earthquake is with a magnitude of at least 5 . 9
+3. a magnitude of at least 5 . 9 is dangerous enough for destroying buildings and causing things to fall.
+4. Typically, high-magnitude earthquakes cause casualties.
+5. From the INPUT, there have been people who is injured.
+6. Therefore, there is a very high probability that the injuring is caused by the earthquake in the input sentence.
+Answer: Yes.
+
+INPUT: Power was restored to the afflicted villages on the Gulf island of Qeshm after a blackout caused by the quake , which struck on Sunday with a force of about 6 . 0 on the Richter scale .
+Question: In the INPUT sentence, is there a causal relationship between "struck" and "quake"?
+Reasoning Process:
+1. The quake is the subject of verb struck, and they together form the event that the earthquake struck the villages.
+2. Therefore, they are different component of one event.
+3. causal relationship is between two events, rather than a verb and its subject.
+4. Therefore, there is not a causal relationship between "struck" and "quake".
+Answer: No.
+
+INPUT: Police intervened after more than 100 people joined together for a candlelit vigil in the East Flatbush neighborhood in Brooklyn , New York , where 16 - year - old Kimani Gray was shot multiple times by police on Saturday .
+Question: In the INPUT sentence, is there a causal relationship between "vigil" and "shot"?
+Reasoning Process:
+1. From the INPUT, Kimani Gray was shot multiple times by police.
+2. From the INPUT, more than 100 people joined together for a candlelit vigil.
+3. Typically, candlelit vigil is a reaction to a tragedy or a crime.
+4. From the INPUT, the tragedy is Kimani Gray was shot multiple times by police.
+5. Therefore, there is a causal relationship between "vigil" and "shot".
+Answer: Yes.
+
+INPUT: fallout continues after brazen escape.
+Question: In the INPUT sentence, is there a causal relationship between "fallout" and "continues"?
+Reasoning Process:
+1. From the INPUT, the fallout continues.
+2. From the INPUT, there is a brazen escape.
+3. Typically, fallout is a consequence of a certain event.
+4. From the INPUT, the event is a brazen escape.
+5. Therefore, the cause of "fallout" is "brazen escape".
+6. Therefore, there is not a causal relationship between "fallout" and "continues".
+Answer: No.
+
+INPUT: A British man has been killed after falling around 2 , 000ft while climbing in New Zealand .
+Question: In the INPUT sentence, is there a causal relationship between "climbing" and "falling"?
+Reasoning Process:
+1. From the INPUT, the British man was climbing in New Zealand.
+2. From the INPUT, the British man fell around 2,000ft.
+3. Typically, people fall when they are climbing.
+4. Therefore, there is a causal relationship between "climbing" and "falling".
+Answer: Yes.
+
+INPUT: A man who was fired last week from his job at an accounting firm in suburban Detroit walked into his former office with a shotgun on Monday and shot three people , killing one , before fleeing and leading police officers on a high - speed chase , the authorities said .
+Question: In the INPUT sentence, is there a causal relationship between "fleeing" and "walked"?
+Reasoning Process:
+1. From the INPUT, the cause of "fleeing" is shotting and killing people.
+2. From the INPUT, "walked" does not refer to shotting and killing people.
+3. Therefore, "walked" is not the cause of "fleeing".
+4. Besides, from the INPUT, "fleeing" happened after "walk".
+5. Typically, the cause must happen before the result.
+6. Therefore, "fleeing" is not the cause of "walked".
+7. Because "walked" is not the cause of "fleeing" and "fleeing" is not the cause of "walked", there is no causal relationship between "fleeing" and "walked".
+Answer: No.
+
+INPUT: A fire - bomb attack on a bank in Greece killed at least three people Wednesday as police fought pitched battles with striking protestors furious at brutal budget cuts designed to avert national bankruptcy .
+Question: In the INPUT sentence, is there a causal relationship between "cuts" and "striking"?
+Reasoning Process:
+1. From the INPUT, there are budget cuts designed to avert national bankruptcy.
+2. From the INPUT, striking protestors are furious about the budget cuts.
+3. Typically, people strike as a reaction to a certain event.
+4. From the INPUT, the event is the budget cuts.
+5. Therefore, there is a causal relationship between "cuts" and "striking".
+Answer: Yes.
+
+INPUT: Shooting at Accounting Firm Leaves Woman Dead and 2 Hurt .
+Question: In the INPUT sentence, is there a causal relationship between "Dead" and "Hurt"?
+Reasoning Process:
+1. From the INPUT, the cause of "Hurt" is Shooting.
+2. Therefore, "Dead" is not the cause of "Hurt".
+3. From the INPUT, the cause of "Dead" is Shooting.
+4. Therefore, "Hurt" is not the cause of "Dead".
+5. Because "Hurt" is not the cause of "Dead" and "Dead" is not the cause of "Hurt", there is no causal relationship between "Dead" and "Hurt".
+Answer: No.
+
+INPUT: A repair vessel has been notified of the call - out and mobilization will occur immediately once permits are received , " SEACOM said in an official statement .
+Question: In the INPUT sentence, is there a causal relationship between "call" and "permits"?
+Reasoning Process:
+1. From the INPUT, "permits" happened after "call".
+2. Typically, the cause must happen before the result.
+3. Therefore, "permits" is not the cause of "call".
+4. From the INPUT, we cannot find statement that implies that "call" is the cause of "permits" .
+5. Typically, "call" is not necessarily the cause of "permits" .
+6. Therefore, "call" is not the cause of "permits".
+7. Because "permits" is not the cause of "call" and "call" is not the cause of "permits", there is no causal relationship between "call" and "permits".
+Answer: No.
+
+INPUT: So far , 11 Estelle unit employees have been recommended for termination or faced consequences related to Comeaux's escape .
+Question: In the INPUT sentence, is there a causal relationship between "recommended" and "consequences" ?
+Reasoning Process:
+1. From the INPUT, "recommended" and "faced" happened in the same time.
+2. Typically, the cause must happen before the result.
+3. Therefore, "recommended" is not the cause of "consequences" and "consequences" is not the cause of "recommended".
+4. Because "recommended" is not the cause of "consequences" and "consequences" is not the cause of "recommended", there is no causal relationship between "Dead" and "Hurt".
+Answer: No.
+
+INPUT: O'Brien's stubbornness and seemingly unwavering belief in a system that didn't fit his players cost him his job despite a 43 - 39 record and a return to the playoffs .
+Question: In the INPUT sentence, is there a causal relationship between "belief" and "return" ?
+Reasoning Process:
+1. From the INPUT, "belief" didn't fit O'Brien's players cost him his job.
+2. Therefore, "belief" does not help improve the performance of O'Brien.
+3. From the INPUT, "return" implies that the the performance of O'Brien has improved.
+4. Therefore, "belief" is not the cause of "return".
+5. From the INPUT, we cannot find statement that implies that "return" is the cause of "belief" .
+6. Typically, "return" is not necessarily the cause of "belief" .
+7. Therefore, "return" is not the cause of "belief".
+8. Because "belief" is not the cause of "return" and "return" is not the cause of "belief", there is no causal relationship between "return" and "belief".
+Answer: No.
+
+INPUT: A fire on Tuesday destroyed Palmer's historic Matanuska Maid Dairy warehouse building , which was built in the 1930s when colonists arrived from the Midwest to try their hand at farming in Alaska .
+Question: In the INPUT sentence, is there a causal relationship between "try their hand" and "farming"?
+Reasoning Process:
+1. From the INPUT, "farming" is the object of the verb phrase "try their hand".
+2. causal relationship is between two events, rather than a verb and its subject.
+3. Therefore, there is no causal relationship between "try their hand" and "farming".
+Answer: No.
