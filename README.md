@@ -1,5 +1,11 @@
 # ChatGPT Causal Reasoning Evaluation
 
+
+
+This project conducts a comprehensive evaluation of the ChatGPT’s causal reasoning capabilities. [[Paper-ArXiv]](https://arxiv.org/abs/2305.07375)
+
+
+
 ## 1. Install
 
 
@@ -88,3 +94,18 @@ evaluate:
 -- utils # other tool code
 ```
 
+
+
+
+
+### Citation
+If you find our reports benifit your research, please cite the following paper:
+
+```ruby
+@inproceedings{gao2023causalchatgpt,
+  title={Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation},
+  author={Jinglong Gao and Xiao Ding and Bing Qin and Ting Liu},
+  booktitle = {ArXiv},
+  year      = {2023}
+}
+```
