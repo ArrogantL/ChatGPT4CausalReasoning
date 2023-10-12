@@ -2,7 +2,12 @@
 
 
 
-This project conducts a comprehensive evaluation of the ChatGPT’s causal reasoning capabilities. [[Paper-ArXiv]](https://arxiv.org/abs/2305.07375)
+This project conducts the code of paper:
+
+Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. [[Paper-ArXiv]](https://arxiv.org/abs/2305.07375)
+
+Accepted by the Findings of EMNLP 2023.
+
 
 
 
