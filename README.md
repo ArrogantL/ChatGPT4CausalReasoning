@@ -2,7 +2,7 @@
 
 
 
-This project conducts the code of paper:
+This project contains the code of paper:
 
 Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. [[Paper-ArXiv]](https://arxiv.org/abs/2305.07375)
 
