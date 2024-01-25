@@ -55,7 +55,7 @@ CEG:
     human evaluate: CEG_human_evaluation.xlsx
 ```
 
-### 2.2 ChatGPT with ICL or COT
+### 2.2 ChatGPT with ICL or CoT
 
 ```python
 ECI:
@@ -107,10 +107,23 @@ evaluate:
 If you find our reports benifit your research, please cite the following paper:
 
 ```ruby
-@inproceedings{gao2023causalchatgpt,
-  title={Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation},
-  author={Jinglong Gao and Xiao Ding and Bing Qin and Ting Liu},
-  booktitle = {ArXiv},
-  year      = {2023}
+@inproceedings{gao-etal-2023-chatgpt,
+    title = "Is {C}hat{GPT} a Good Causal Reasoner? A Comprehensive Evaluation",
+    author = "Gao, Jinglong  and
+      Ding, Xiao  and
+      Qin, Bing  and
+      Liu, Ting",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.743",
+    doi = "10.18653/v1/2023.findings-emnlp.743",
+    pages = "11111--11126",
+    abstract = "Causal reasoning ability is crucial for numerous NLP applications. Despite the impressive emerging ability of ChatGPT in various NLP tasks, it is unclear how well ChatGPT performs in causal reasoning. In this paper, we conduct the first comprehensive evaluation of the ChatGPT{'}s causal reasoning capabilities. Experiments show that ChatGPT is not a good causal reasoner, but a good causal interpreter. Besides, ChatGPT has a serious hallucination on causal reasoning, possibly due to the reporting biases between causal and non-causal relationships in natural language, as well as ChatGPT{'}s upgrading processes, such as RLHF. The In-Context Learning (ICL) and Chain-of-Thought (CoT) techniques can further exacerbate such causal hallucination. Additionally, the causal reasoning ability of ChatGPT is sensitive to the words used to express the causal concept in prompts, and close-ended prompts perform better than open-ended prompts. For events in sentences, ChatGPT excels at capturing explicit causality rather than implicit causality, and performs better in sentences with lower event density and smaller lexical distance between events.",
 }
 ```
